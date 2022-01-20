@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693748570720",
+    "project_id": "paintracker-18154",
+    "storage_bucket": "paintracker-18154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693748570720:android:f67d696746e5471d0bc105",
+        "android_client_info": {
+          "package_name": "com.sabrinatrishita.paintracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693748570720-e5ht3ba6rvksdk5dfrr8cn9r3au24vvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnEag168b4fVQ9t4uJesDcmJEEiWr7mgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693748570720-e5ht3ba6rvksdk5dfrr8cn9r3au24vvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
